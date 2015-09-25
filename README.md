@@ -1,3 +1,3 @@
-Globe CSS generator
+# Globe CSS generator
 
 Run `gulp`. Go home.
